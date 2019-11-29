@@ -1,0 +1,6 @@
+Adafruit_CircuitPlayground 
+Adafruit-GFX-Library
+Adafruit_SSD1306
+Adafruit_Sensor
+Ambient_ESP32_ESP8266_lib
+DHT-sensor-library
